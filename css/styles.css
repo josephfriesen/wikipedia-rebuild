@@ -16,6 +16,24 @@
   color: #000;
 }
 
+
+img {
+  border: 0px;
+  vertical-align: middle;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.featuredpic1 {
+  float: left;
+}
+
 #featuredpic {
   margin-top: 4px;
   border: 1px solid #ddcef2;
@@ -24,5 +42,5 @@
 }
 
 #header {
-  
+
 }
