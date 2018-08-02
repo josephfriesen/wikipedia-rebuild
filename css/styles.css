@@ -1,0 +1,28 @@
+#leftcol {
+  width: 55%;
+  border: 1px solid #cef2e0
+  padding: 0;
+  background: #f5fffa;
+  vertical-align: top;
+  color: #000;
+}
+
+#rightcol {
+  width: 45%;
+  border: 1px solid #cedff2;
+  padding: 0;
+  background: #f5fffa;
+  vertical-align: top;
+  color: #000;
+}
+
+#featuredpic {
+  margin-top: 4px;
+  border: 1px solid #ddcef2;
+  background: #faf5ff;
+  /*  overflow: auto;  */
+}
+
+#header {
+  
+}
