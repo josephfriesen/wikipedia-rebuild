@@ -1,6 +1,6 @@
 #leftcol {
-  width: 55%;
-  border: 1px solid #cef2e0
+  width: 50%;
+  border: 100px solid #cef2e0
   padding: 0;
   background: #f5fffa;
   vertical-align: top;
@@ -8,19 +8,19 @@
 }
 
 #rightcol {
-  width: 45%;
-  border: 1px solid #cedff2;
+  width: 50%;
   padding: 0;
-  background: #f5fffa;
+  background: #f5faff;
   vertical-align: top;
-  color: #000;
 }
 
 
 img {
   border: 0px;
+  margin: 2
   vertical-align: middle;
 }
+
 
 .pull-left {
   float: left;
@@ -41,6 +41,6 @@ img {
   /*  overflow: auto;  */
 }
 
-#header {
-
+#FeaturedPanelHeading {
+  background-color: #e6b3ff;
 }
